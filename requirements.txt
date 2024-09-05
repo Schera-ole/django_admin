@@ -1,0 +1,10 @@
+django==4.2.5
+flake8==6.1.0
+django-split-settings==1.2.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
+pytest==7.4.3
+dataclass-wizard==0.22.2
+django-postgres-extra==2.0.8
+gunicorn==21.2.0
+uvicorn-0.25.0
